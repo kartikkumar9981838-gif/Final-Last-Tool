@@ -1,13 +1,13 @@
 'use client'
 
 import Navbar from '@/components/navbar'
-import Hero from '@/components/sections/hero'
-import HowItWorks from '@/components/sections/how-it-works'
-import Features from '@/components/sections/features'
-import SupportedFormats from '@/components/sections/supported-formats'
-import Pricing from '@/components/sections/pricing'
-import FAQ from '@/components/sections/faq'
-import CTABanner from '@/components/sections/cta-banner'
+import Hero from '@/components/hero'
+import HowItWorks from '@/components/how-it-works'
+import Features from '@/components/features'
+import SupportedFormats from '@/components/supported-formats'
+import Pricing from '@/components/pricing'
+import FAQ from '@/components/faq'
+import CTABanner from '@/components/cta-banner'
 import Footer from '@/components/footer'
 
 export default function Home() {
